@@ -1,4 +1,4 @@
-Objective : To automate OrangeHRM web application.
+Objective : To automate OrangeHRM web application..
 
 Test Approach : 
 ●OrangeHRM is a web application, so I have decided to use the Selenium tool to create Automation Test scripts.
