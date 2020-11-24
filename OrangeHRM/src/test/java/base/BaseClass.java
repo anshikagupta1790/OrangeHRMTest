@@ -38,11 +38,11 @@ public class BaseClass {
 			System.err.println("operating system name: "+os);
 			if (OPERATING_SYSTEM_NAME.equalsIgnoreCase(os)) {
 				System.setProperty(DRIVER_PROP,
-						System.getProperty("user.dir") + "/src/test/resources/driver/chromedriver/chromedriver");
+						 "src/test/resources/driver/chromedriver/chromedriver");
 			}
 			else {
 				System.setProperty(DRIVER_PROP,
-						System.getProperty("user.dir") + "/src/test/resources/driver/chromedriver/chromedriver.exe");
+						"src/test/resources/driver/chromedriver/chromedriver.exe");
 			}
 			driver= new ChromeDriver();
 			

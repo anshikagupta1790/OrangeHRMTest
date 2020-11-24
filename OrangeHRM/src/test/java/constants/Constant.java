@@ -16,6 +16,6 @@ public  class Constant {
 	
 	
 	//property file path location
-	public static final String PROPERTY_PATH = "/Users/tigerlondon/eclipse-workspace/OrangeHRM/src/test/resources/config.properties";
+	public static final String PROPERTY_PATH = "src/test/resources/config.properties";
 
 }
