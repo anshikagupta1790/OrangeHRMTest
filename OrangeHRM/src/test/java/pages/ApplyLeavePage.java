@@ -43,10 +43,11 @@ public void validateApplyLeave() throws InterruptedException
 		toDate.sendKeys("Fri, 18 Dec 2020");
 		//Thread.sleep(4000);
 		applyleave.submit();
-		System.out.println("Hi");
-		System.out.println("Check");
+		System.out.println("Hihel");
+		System.out.println("Checkhel");
 
 		System.out.println("done the chnages1");
+		
 
 		
 	}
